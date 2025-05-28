@@ -1,0 +1,4 @@
+﻿  palindrome.cpp
+C:\Users\ian10\School\CMPS121\Homework\Lab\palindrome\palindrome.cpp(125,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ian10\School\CMPS121\Homework\Lab\palindrome\palindrome.cpp(150,1): warning C4715: 'isPalindrome': not all control paths return a value
+  palindrome.vcxproj -> C:\Users\ian10\School\CMPS121\Homework\Lab\palindrome\x64\Debug\palindrome.exe
