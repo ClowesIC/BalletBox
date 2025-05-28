@@ -1,0 +1,4 @@
+﻿  game.cpp
+C:\Users\ian10\School\CMPS121\Homework\Lab\game\game.cpp(28,6): warning C4101: 'randNumber': unreferenced local variable
+C:\Users\ian10\School\CMPS121\Homework\Lab\game\game.cpp(51,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game.vcxproj -> C:\Users\ian10\School\CMPS121\Homework\Lab\game\x64\Debug\game.exe
