@@ -1,0 +1,4 @@
+﻿  bankloan.cpp
+C:\Users\ian10\OneDrive\Documents\CMPS121\Homework\Lab\bankloan\bankloan.cpp(93,1): warning C4715: 'askLoan': not all control paths return a value
+C:\Users\ian10\OneDrive\Documents\CMPS121\Homework\Lab\bankloan\bankloan.cpp(113,1): warning C4715: 'decideLoan': not all control paths return a value
+  bankloan.vcxproj -> C:\Users\ian10\OneDrive\Documents\CMPS121\Homework\Lab\bankloan\x64\Debug\bankloan.exe
