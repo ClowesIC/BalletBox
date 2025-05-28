@@ -1,0 +1,4 @@
+﻿  RPS.cpp
+C:\Users\ian10\source\repos\RPS\RPS.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ian10\source\repos\RPS\RPS.cpp(66,1): warning C4715: 'getUserSelection': not all control paths return a value
+  RPS.vcxproj -> C:\Users\ian10\source\repos\RPS\x64\Debug\RPS.exe
