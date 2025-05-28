@@ -1,0 +1,3 @@
+﻿  parking.cpp
+C:\Users\ian10\OneDrive\Documents\CMPS121\Homework\Lab\parking\parking.cpp(29,8): warning C4101: 'amountDue': unreferenced local variable
+  parking.vcxproj -> C:\Users\ian10\OneDrive\Documents\CMPS121\Homework\Lab\parking\x64\Debug\parking.exe
