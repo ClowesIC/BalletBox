@@ -1,0 +1,4 @@
+﻿  reverse2.cpp
+C:\Users\ian10\School\CMPS121\Homework\Lab\reverse2\reverse2.cpp(31,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ian10\School\CMPS121\Homework\Lab\reverse2\reverse2.cpp(46,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  reverse2.vcxproj -> C:\Users\ian10\School\CMPS121\Homework\Lab\reverse2\x64\Debug\reverse2.exe
