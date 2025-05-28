@@ -1,0 +1,3 @@
+﻿  diceMain.cpp
+C:\Users\ian10\School\CMPS121\Homework\Lab\diceMain\diceMain.cpp(33,9): warning C4101: 'secondRatio': unreferenced local variable
+  diceMain.vcxproj -> C:\Users\ian10\School\CMPS121\Homework\Lab\diceMain\x64\Debug\diceMain.exe
