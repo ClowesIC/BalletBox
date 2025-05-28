@@ -1,0 +1,3 @@
+﻿  guess.cpp
+C:\Users\ian10\School\CMPS121\Homework\Lab\guess\guess.cpp(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  guess.vcxproj -> C:\Users\ian10\School\CMPS121\Homework\Lab\guess\x64\Debug\guess.exe
