@@ -1,0 +1,3 @@
+﻿  Time.cpp
+C:\Users\ian10\School\CMPS122\Lab\InLab5\Lab5Test\Time.cpp(134,1): warning C4715: 'Time::operator=': not all control paths return a value
+  Lab5Test.vcxproj -> C:\Users\ian10\School\CMPS122\Lab\InLab5\Lab5Test\x64\Debug\Lab5Test.exe
