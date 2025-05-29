@@ -1,0 +1,3 @@
+﻿  TestScores.cpp
+C:\Users\ian10\School\CMPS122\Lab\InLab2\TestScores\TestScores.cpp(71,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TestScores.vcxproj -> C:\Users\ian10\School\CMPS122\Lab\InLab2\TestScores\x64\Debug\TestScores.exe
