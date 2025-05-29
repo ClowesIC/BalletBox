@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListSkeleton", "LinkedListSkeleton.vcxproj", "{A39BA671-A739-4F86-8802-83934315BD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39BA671-A739-4F86-8802-83934315BD21}.Debug|x64.ActiveCfg = Debug|x64
+		{A39BA671-A739-4F86-8802-83934315BD21}.Debug|x64.Build.0 = Debug|x64
+		{A39BA671-A739-4F86-8802-83934315BD21}.Debug|x86.ActiveCfg = Debug|Win32
+		{A39BA671-A739-4F86-8802-83934315BD21}.Debug|x86.Build.0 = Debug|Win32
+		{A39BA671-A739-4F86-8802-83934315BD21}.Release|x64.ActiveCfg = Release|x64
+		{A39BA671-A739-4F86-8802-83934315BD21}.Release|x64.Build.0 = Release|x64
+		{A39BA671-A739-4F86-8802-83934315BD21}.Release|x86.ActiveCfg = Release|Win32
+		{A39BA671-A739-4F86-8802-83934315BD21}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90822B7A-1391-48AA-A8D9-F8B98BCCD5EF}
+	EndGlobalSection
+EndGlobal

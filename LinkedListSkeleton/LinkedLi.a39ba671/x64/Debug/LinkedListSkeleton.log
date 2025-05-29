@@ -1,0 +1,3 @@
+﻿  LinkedListSkeleton.cpp
+C:\Users\ian10\School\CMPS122\Lab\LinkedListSkeleton\LinkedListSkeleton.cpp(44,1): warning C4715: 'testIncreasing': not all control paths return a value
+  LinkedListSkeleton.vcxproj -> C:\Users\ian10\School\CMPS122\Lab\LinkedListSkeleton\x64\Debug\LinkedListSkeleton.exe
