@@ -1,0 +1,379 @@
+Array Manipulation Lab
+50
+47.5
+
+Recursive Patterns Challenge
+0
+12.5
+
+Pointer Basics Worksheet
+30
+-5.0
+
+Loop Logic Drills
+25
+abc
+
+Variable Naming Practice
+-10
+8.0
+
+Conditionals Mini-Project
+60
+61.0
+
+Functions & Parameters Quiz
+35
+31.5
+
+File I/O Practice Set
+???
+41.0
+
+Class Design Exercise
+70
+fourty
+
+Vector Operations Lab
+50
+49.0
+
+String Parsing Workshop
+40
+36.5
+
+Debugging Scavenger Hunt
+30
+27.0
+
+Algorithm Tracing Activity
+55
+52.5
+
+Memory Model Exploration
+-5
+-1.0
+
+Sorting Strategy Comparison
+80
+78.5
+
+Binary Conversion Drill
+25
+23.0
+
+Boolean Logic Puzzle Set
+3O   <-- letter O
+2.5
+
+Modular Programming Task
+65
+59.0
+
+Command Line Tools Lab
+50
+44.5
+
+Two-Dimensional Array Project
+85
+90.0
+
+Exception Handling Demo
+60
+xyz
+
+Inheritance Practice Sheet
+55
+51.0
+
+Class Relationships Mapping
+70
+6O.5   <-- O not zero
+
+Interfaces Coding Activity
+40
+38.0
+
+Dynamic Memory Allocation Lab
+90
+88.0
+
+Recursion Maze Solver
+100
+100.0
+
+Performance Profiling Experiment
+75
+70.0
+
+Unit Testing Fundamentals
+45
+41.0
+
+Compiler Errors Investigation
+30
+27.5
+
+Switch Statement Practice
+20
+19.0
+
+ASCII Table Exploration
+25
+22.0
+
+Function Overloading Workshop
+35
+32.0
+
+Loop Tracing Worksheet
+40
+37.0
+
+Parallel Arrays Task
+-15
+-3.0
+
+Intro to Searching Algorithms
+50
+abc123
+
+Exception Scenarios Lab
+60
+53.0
+
+Class Diagram Interpretation
+zero
+1.0
+
+Constructor Debugging Exercise
+70
+66.0
+
+Method Decomposition Activity
+55
+51.5
+
+Encapsulation Mini-Project
+80
+75.0
+
+File Parsing Implementation
+90
+85.5
+
+Character Stream Challenge
+100
+-9.5
+
+Reference Semantics Practice
+45
+43.0
+
+Pointer Arithmetic Exploration
+35
+33.5
+
+Stack vs Heap Comparison
+50
+47.0
+
+Algorithm Efficiency Drill
+60
+57.5
+
+Enum Applications Task
+25
+24.0
+
+Nested Loop Challenge
+abc
+29.0
+
+Simple Cipher Encoder
+55
+52.5
+
+Modular Calculator Build
+65
+62.0
+
+Gradebook Analyzer Project
+80
+100.0
+
+String Tokenization Task
+40
+35.5
+
+Exception Tracing Puzzle
+50
+48.0
+
+Vector-Based Histogram Lab
+70
+67.0
+
+Input Validation Toolkit
+30
+28.5
+
+Basic Geometry Calculator
+35
+thirty
+
+Random Number Simulation
+45
+43.5
+
+Prime Number Analyzer
+55
+50.0
+
+Case Conversion Utility
+25
+23.5
+
+Array Rotation Exercise
+40
+38.0
+
+Math Quiz Generator
+45
+4a.5   <-- invalid numeric
+
+Loop-Based Art Printer
+20
+19.0
+
+Digital Clock Formatter
+50
+47.5
+
+Memory Leak Investigation
+65
+sixty
+
+Struct Initialization Practice
+30
+27.0
+
+String Reversal Toolkit
+55
+52.0
+
+Unit Conversion App
+45
+42.0
+
+Pointer Diagram Sketching
+35
+33.0
+
+Temperature Logger Lab
+60
+59.0
+
+Bank Account Simulation
+70
+67.0
+
+Calendar Date Validator
+40
+38.5
+
+Object Copying Experiment
+55
+-22.0
+
+Grade Curve Computation
+30
+28.0
+
+Sorting Visualization Task
+85
+82.5
+
+Histogram Builder
+50
+49.0
+
+Matrix Addition Lab
+75
+71.5
+
+Caesar Cipher Encoder
+60
+58.0
+
+Binary Search Explorer
+40
+37.0
+
+Parallel Processing Primer
+90
+88.5
+
+Triangle Classification Program
+35
+32.5
+
+GPA Calculator Build
+45
+40.0
+
+User Input Sanitizer
+25
+22.0
+
+Expression Evaluator
+50
+46.0
+
+Array Statistics Summarizer
+70
+65.5
+
+Fibonacci Sequence Generator
+30
+29.0
+
+Password Strength Checker
+80
+76.0
+
+Palindrome Detector
+40
+3.5x   <-- garbage character
+
+Dice Roll Simulation
+25
+24.0
+
+Text File Analyzer
+60
+55.0
+
+Shopping Cart Class Demo
+55
+N/A
+
+Bracket Matching Validator
+50
+47.0
+
+CSV Reader Exercise
+65
+61.5
+
+Linked List Prototype
+90
+86.5
+
+Polynomial Evaluation Lab
+85
+81.0
+
+Pointer Tracing Puzzle
+45
+43.5
